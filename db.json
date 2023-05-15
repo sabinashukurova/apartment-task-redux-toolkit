@@ -1,0 +1,123 @@
+{
+    "items": [{
+            "id": 1,
+            "house": "Luxe villa in Alicante",
+            "country": "Greece",
+            "city": "Néa Kíos",
+            "location": "7th Floor",
+            "price": 941535,
+            "street": "Hansons",
+            "image": "https://i.pinimg.com/originals/3e/4a/ec/3e4aec6d9a4e050fbff055a9cd18cf6b.jpg",
+            "date": "9/27/2022",
+            "type": "villa"
+        },
+        {
+            "id": 2,
+            "house": "Apartment in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Albania",
+            "city": "Ersekë",
+            "location": "4th Floor",
+            "price": 579132,
+            "street": "Huxley",
+            "image": "https://i.pinimg.com/originals/7a/8a/6f/7a8a6fe5b8cfed9ac3b5590fa41534e6.jpg",
+            "date": "5/22/2022",
+            "type": "apartment"
+        },
+        {
+            "id": 3,
+            "house": "Apartment in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Brazil",
+            "city": "Itapevi",
+            "location": "Apt 999",
+            "price": 671070,
+            "street": "Iowa",
+            "image": "https://i.pinimg.com/originals/4d/2b/d3/4d2bd3b52c7662b7f91343548507c618.jpg",
+            "date": "10/15/2022",
+            "type": "apartment"
+        },
+        {
+            "id": 4,
+            "house": "Luxe villa in Alicante",
+            "country": "Azerbaijan",
+            "city": "Buzovna",
+            "location": "Suite 65",
+            "price": 781444,
+            "street": "Welch",
+            "image": "https://i.pinimg.com/originals/ee/a3/b7/eea3b701bab19464b04a13390c6e2d6e.jpg",
+            "date": "8/26/2022",
+            "type": "villa"
+        },
+        {
+            "id": 5,
+            "house": "Luxe villa in Alicante",
+            "country": "Azerbaijan",
+            "city": "Mardakyany",
+            "location": "Room 1687",
+            "price": 631743,
+            "street": "Maryland",
+            "image": "https://i.pinimg.com/originals/eb/13/dd/eb13dd2490256dd492dcf82ef4593b57.jpg",
+            "date": "10/27/2022",
+            "type": "villa"
+        },
+        {
+            "id": 6,
+            "house": "Townhouse in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Colombia",
+            "city": "Ipiales",
+            "location": "Suite 98",
+            "price": 375052,
+            "street": "Fallview",
+            "image": "https://i.pinimg.com/originals/9d/21/6f/9d216f2f6a1dddeb74127d3ef34e96ae.jpg",
+            "date": "5/18/2022",
+            "type": "townhouse"
+        },
+        {
+            "id": 7,
+            "house": "Apartment in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Argentina",
+            "city": "Cinco Saltos",
+            "location": "Suite 42",
+            "price": 660116,
+            "street": "Dexter",
+            "image": "https://i.pinimg.com/originals/05/6d/5c/056d5cb171464f0ae54b91b4976a513a.jpg",
+            "date": "9/27/2022",
+            "type": "apartment"
+        },
+        {
+            "id": 8,
+            "house": "Townhouse in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Albania",
+            "city": "Karbunara e Vogël",
+            "location": "11th Floor",
+            "price": 730913,
+            "street": "Holy Cross",
+            "image": "https://i.pinimg.com/originals/4b/90/5f/4b905ff1c4d30183ea8bd9b39ad0f8a1.jpg",
+            "date": "2/16/2023",
+            "type": "townhouse"
+        },
+        {
+            "id": 9,
+            "house": "Apartment in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Brazil",
+            "city": "Piraí do Sul",
+            "location": "PO Box 85033",
+            "price": 140309,
+            "street": "Westend",
+            "image": "https://i.pinimg.com/originals/d8/87/fe/d887fe8ee028d1112e38519425e46041.png",
+            "date": "3/29/2023",
+            "type": "apartment"
+        },
+        {
+            "id": 10,
+            "house": "Townhouse in Santiago de la Ribera, Costa Cálida, Spanje",
+            "country": "Canada",
+            "city": "Stettler",
+            "location": "PO Box 74126",
+            "price": 192874,
+            "street": "Sommers",
+            "image": "https://i.pinimg.com/originals/50/09/ba/5009bac72077a6386a6aa40a564e0483.jpg",
+            "date": "7/1/2022",
+            "type": "townhouse"
+        }
+    ]
+}

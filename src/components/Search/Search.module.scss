@@ -1,0 +1,15 @@
+.container {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchButton {
+    border-radius: 0 4px 4px 0;
+    border: none;
+    background-color: #ec7f07;
+    color: white;
+    cursor: pointer;
+    padding: 10px 12px;
+}

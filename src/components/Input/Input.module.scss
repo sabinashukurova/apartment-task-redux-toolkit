@@ -1,0 +1,32 @@
+.input {
+    border: none;
+    font-family: Roboto, sans-serif;
+    padding: 10px 18px;
+    outline: none;
+    // border: 1px solid black;
+    color: gray;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    border: 1px solid whitesmoke;
+    width: 100%;
+    transition: 200ms;
+}
+
+.icon {
+    padding: 5px;
+    border-right: 1px solid whitesmoke;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+
+.icon_disabled {
+    background-color: whitesmoke;
+}
+
+.input_focused {
+    border-color: rgb(79, 77, 77);
+    transition: 200ms;
+}

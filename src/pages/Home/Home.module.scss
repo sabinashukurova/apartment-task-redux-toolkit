@@ -1,0 +1,33 @@
+.width {
+    max-width: 1920px;
+    width: 70%;
+    margin: 0 auto;
+    .container {
+        display: grid;
+        padding-top: 5em;
+        grid-gap: 36px;
+        grid-template-columns: 1fr 3fr;
+        height: 100vh;
+        .filterPanel {
+            border-top: 1px solid #f3f4f5;
+            .filterPanelInner {
+                margin-top: 20px;
+                position: sticky;
+                top: 20px;
+            }
+        }
+        .contentPanel {
+            .advertisement {
+                width: 88%;
+                h3 {
+                    font-family: Poppins, sans-serif;
+                    text-align: center;
+                }
+                .advertisementContainer {
+                    padding: 10px 0;
+                    border-bottom: 1px solid #f3f4f5;
+                }
+            }
+        }
+    }
+}
